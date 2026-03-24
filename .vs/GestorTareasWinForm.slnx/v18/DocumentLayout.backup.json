@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,29 +47,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Tarea.cs",
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Tarea.cs",
               "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Tarea.cs",
               "RelativeToolTip": "GestorTareasWinForm\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T14:48:25.422Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Form1.cs",
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Form1.cs",
               "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Form1.cs",
               "RelativeToolTip": "GestorTareasWinForm\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T14:34:51.218Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -89,7 +91,8 @@
               "RelativeToolTip": "GestorTareasWinForm\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T15:06:50.007Z"
+              "WhenOpened": "2026-02-17T15:06:50.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

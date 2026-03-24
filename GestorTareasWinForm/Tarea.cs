@@ -22,5 +22,10 @@ public class Tarea
 	{
 		return $"{Nombre} - {(Completada ? "Completada" : "Pendiente")} - Vence: {FechaVencimiento:d}";
 	}
+
+
+
 }
+
+
 

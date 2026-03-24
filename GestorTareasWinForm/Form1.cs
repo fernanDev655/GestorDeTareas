@@ -94,12 +94,23 @@ namespace GestorTareasWinForm
 			}
 		}
 
-		/// Limpia los campos del formulario.
-		private void LimpiarCampos()
+        private void login()
+        {
+            // Funcionalidad de login
+            Console.WriteLine("Login implementado");
+        }
+
+        /// Limpia los campos del formulario.
+        private void LimpiarCampos()
 		{
 			txtNombre.Clear();
 			txtDescripcion.Clear();
 			dtpFechaVencimiento.Value = DateTime.Now;
 		}
+	
+
+	
+
+
 	}
 }
