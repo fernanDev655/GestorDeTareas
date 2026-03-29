@@ -94,10 +94,10 @@ namespace GestorTareasWinForm
 			}
 		}
 
-        private void login()
+        private void registrar()
         {
             // Funcionalidad de login
-            Console.WriteLine("Login implementado");
+            Console.WriteLine("registro implementado");
         }
 
         /// Limpia los campos del formulario.
