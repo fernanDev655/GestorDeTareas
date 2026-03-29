@@ -14,8 +14,7 @@ namespace GestorTareasWinForm
 			Application.Run(new Form1());
 
 			Console.WriteLine("registro implementado");
-            Console.WriteLine("login implementado");
-
+            
 
         }
 

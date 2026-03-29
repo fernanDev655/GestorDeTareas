@@ -42,8 +42,7 @@
               "RelativeToolTip": "GestorTareasWinForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T14:56:56.04Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -69,8 +68,7 @@
               "ViewState": "AgIAAFMAAAAAAAAAAAAIwGAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T14:34:51.218Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -88,7 +86,7 @@
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Program.cs",
               "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Program.cs",
               "RelativeToolTip": "GestorTareasWinForm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T15:06:50.007Z",
               "EditorCaption": ""
