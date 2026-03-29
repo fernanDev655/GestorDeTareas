@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "GestorTareasWinForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T14:56:56.04Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -87,7 +86,7 @@
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Program.cs",
               "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Program.cs",
               "RelativeToolTip": "GestorTareasWinForm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T15:06:50.007Z",
               "EditorCaption": ""

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|solutionrelative:gestortareaswinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F64CA50E-781C-ED59-9B83-6416E801CE89}|GestorTareasWinForm\\GestorTareasWinForm.csproj|c:\\users\\fer\\source\\repos\\gestortareaswinform\\gestortareaswinform\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Form1.cs",
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Form1.cs",
-              "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GestorTareasWinForm\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "GestorTareasWinForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T14:56:56.04Z",
               "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Tarea.cs",
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Tarea.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Form1.cs",
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Form1.cs",
@@ -81,15 +81,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Program.cs",
               "RelativeDocumentMoniker": "GestorTareasWinForm\\Program.cs",
               "ToolTip": "C:\\Users\\fer\\source\\repos\\GestorTareasWinForm\\GestorTareasWinForm\\Program.cs",
               "RelativeToolTip": "GestorTareasWinForm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T15:06:50.007Z"
+              "WhenOpened": "2026-02-17T15:06:50.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
