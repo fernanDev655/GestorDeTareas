@@ -13,10 +13,11 @@ namespace GestorTareasWinForm
 			ApplicationConfiguration.Initialize();
 			Application.Run(new Form1());
 
-			Console.WriteLine("registro modificado");
+			Console.WriteLine("registro implementado");
+            Console.WriteLine("login implementado");
 
 
-		}
+        }
 
 	}
 }
